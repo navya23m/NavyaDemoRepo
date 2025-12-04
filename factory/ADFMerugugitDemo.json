@@ -1,0 +1,9 @@
+{
+	"name": "ADFMerugugitDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f485f8a-9428-410e-86f1-4ed108aed729",
+		"tenantId": "d0b82f70-49e0-4725-86d5-e1d8cb9214ba"
+	}
+}
